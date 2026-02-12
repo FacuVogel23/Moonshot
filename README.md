@@ -14,7 +14,7 @@ Moonshot presents NASA's Apollo program missions in an interactive and visually 
 
 ## Demo
 
-<video src="screenshots/demo.mp4" width="300" autoplay loop muted></video>
+https://github.com/user-attachments/assets/fc33f45a-2e0f-428b-8496-05dc41fa1ece
 
 ---
 
