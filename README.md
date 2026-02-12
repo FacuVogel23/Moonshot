@@ -14,9 +14,7 @@ Moonshot presents NASA's Apollo program missions in an interactive and visually 
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
-<!-- ![Grid View](screenshots/grid.png) -->
-<!-- ![Mission Detail](screenshots/mission.png) -->
+Coming soon!
 
 ---
 
@@ -93,7 +91,7 @@ Moonshot presents NASA's Apollo program missions in an interactive and visually 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Moonshot.git
+   git clone https://github.com/FacuVogel23/Moonshot.git
    ```
 2. Open `Moonshot.xcodeproj` in Xcode.
 3. Select a simulator or device and run the project.
