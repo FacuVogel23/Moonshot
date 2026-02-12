@@ -14,7 +14,9 @@ Moonshot presents NASA's Apollo program missions in an interactive and visually 
 
 ## Screenshots
 
-Coming soon!
+| Demo | Grid View | List View | Mission Detail | Astronaut Detail |
+|---|---|---|
+| ![Demo](screenshots/demo.mp4) | ![Grid](screenshots/grid.png) | ![List](screenshots/list.png) | ![Mission](screenshots/mission.png) | ![Astronaut](screenshots/astronaut.png) |
 
 ---
 
