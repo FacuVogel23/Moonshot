@@ -22,6 +22,9 @@ struct ContentView: View {
                     MainListView(astronauts: astronauts, missions: missions)
                 }
             }
+            .navigationDestination(for: Mission.self) { mission in
+                MissionView(mission: mission, astronauts: astronauts)
+            }
             .navigationTitle("Moonshot")
             .background(.darkBackground)
             .preferredColorScheme(.dark)
